@@ -1,4 +1,4 @@
-## Building the backend of a Polls application similar To twitter polls with Spring Boot, Spring Security and JWT
+## Building the backend of a Polls application similar to Twitter polls with Spring Boot, Spring Security and JWT
 
 ## Steps to Setup the Spring Boot Back end app 
 
